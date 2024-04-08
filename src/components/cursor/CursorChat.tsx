@@ -1,5 +1,5 @@
 import { CursorChatProps, CursorMode } from "@/src/types/type";
-import CursorSVG from "../../../public/assets/CursorSVG";
+import CursorSVG from "@/src/assets/CursorSVG";
 
 export function CursorChat({
   cursor,
